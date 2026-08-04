@@ -1,3 +1,7 @@
+name: GitHub Snake Game
+
+
+
 on:
 
 
@@ -7,7 +11,9 @@ on:
 
 
 
+
   workflow_dispatch:
+
 
 
 
@@ -16,6 +22,7 @@ on:
     branches:
 
       - main
+
 
 
 jobs:
@@ -27,12 +34,14 @@ jobs:
     timeout-minutes: 10
 
 
+
     steps:
 
 
       - name: Checkout Repository
 
         uses: actions/checkout@v3
+
 
 
 
@@ -44,6 +53,7 @@ jobs:
 
 
           github_user_name: ${{ github.repository_owner }}
+
 
 
 
@@ -61,6 +71,7 @@ jobs:
 
 
 
+
       - name: Deploy to Output Branch
 
         uses: peaceiris/actions-gh-pages@v3
@@ -72,6 +83,5 @@ jobs:
           publish_dir: ./dist
 
           publish_branch: output
-
 
           commit_message: "Update snake animation [skip ci]"
