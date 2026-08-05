@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k3xnbl8s0e4mc0duvb8mxj29c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=k3xnbl8s0e4mc0duvb8mxj29c&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k3xnbl8s0e4mc0duvb8mxj29c&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=k3xnbl8s0e4mc0duvb8mxj29c&redirect=true)
   ![snake gif](https://github.com/unhappy7/unhappy7/blob/output/github-snake-dark.svg)
 
